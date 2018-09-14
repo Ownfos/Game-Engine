@@ -128,7 +128,6 @@
     <ClCompile Include="Random.cpp" />
     <ClCompile Include="Shape.cpp" />
     <ClCompile Include="main.cpp" />
-    <ClCompile Include="System.cpp" />
     <ClCompile Include="Vector.cpp" />
   </ItemGroup>
   <ItemGroup>
